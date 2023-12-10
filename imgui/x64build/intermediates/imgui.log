@@ -1,0 +1,37 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(516,5): warning MSB8004: Intermediate Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Intermediate Directory.
+  main.cpp
+C:\Users\Me\Desktop\code\imgui\src\main.cpp(513,75): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Me\Desktop\code\imgui\src\main.cpp(513,68): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Me\Desktop\code\imgui\src\main.cpp(514,77): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Me\Desktop\code\imgui\src\main.cpp(514,70): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Me\Desktop\code\imgui\src\main.cpp(515,77): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Me\Desktop\code\imgui\src\main.cpp(515,70): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Me\Desktop\code\imgui\src\main.cpp(517,87): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Me\Desktop\code\imgui\src\main.cpp(517,80): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Me\Desktop\code\imgui\src\main.cpp(518,81): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Me\Desktop\code\imgui\src\main.cpp(518,74): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Me\Desktop\code\imgui\src\main.cpp(519,79): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Me\Desktop\code\imgui\src\main.cpp(519,72): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Me\Desktop\code\imgui\src\main.cpp(521,87): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Me\Desktop\code\imgui\src\main.cpp(521,80): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Me\Desktop\code\imgui\src\main.cpp(522,81): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Me\Desktop\code\imgui\src\main.cpp(522,74): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Me\Desktop\code\imgui\src\main.cpp(523,79): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Me\Desktop\code\imgui\src\main.cpp(523,72): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Me\Desktop\code\imgui\src\main.cpp(525,81): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Me\Desktop\code\imgui\src\main.cpp(525,74): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Me\Desktop\code\imgui\src\main.cpp(527,79): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Me\Desktop\code\imgui\src\main.cpp(527,72): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Me\Desktop\code\imgui\src\main.cpp(528,79): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Me\Desktop\code\imgui\src\main.cpp(528,72): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Me\Desktop\code\imgui\src\main.cpp(530,79): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Me\Desktop\code\imgui\src\main.cpp(530,72): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Me\Desktop\code\imgui\src\main.cpp(531,79): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Me\Desktop\code\imgui\src\main.cpp(531,72): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Me\Desktop\code\imgui\src\main.cpp(560,31): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  Generating code
+  3 of 1513 functions ( 0.2%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    20 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  imgui.vcxproj -> C:\Users\Me\Desktop\code\imgui\build\imgui.exe
